@@ -19,7 +19,7 @@ Trata-se de um chat, e tem o propósito de consolidar o conhecimento sobre Web S
 </ul>
 
 ## Instalação 
-> Antes de seguir os passoas abaixo, é necessário ter o Node.js instalado na máquina. Para mais informações, acesse o site oficial da tecnologia: https://nodejs.org/.
+> Antes de seguir os passos abaixo, é necessário ter o Node.js instalado na máquina. Para mais informações, acesse o site oficial da tecnologia: https://nodejs.org/.
 
 ```bash
 
